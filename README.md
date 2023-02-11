@@ -19,6 +19,9 @@
    <a href="https://github.com/DenverCoder1?tab=followers">
     <img src="https://img.shields.io/badge/Github-purple?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Badge"/>
+  </a>
 </div>
 <!--
 <div align="center">
