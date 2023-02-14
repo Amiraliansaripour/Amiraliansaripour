@@ -16,10 +16,10 @@
   <a href="https://telegram.me/amiraliansarpor">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-   <a href="https://github.com/DenverCoder1?tab=followers">
+   <a href="https://github.com/Amiraliansaripour?tab=followers">
     <img src="https://img.shields.io/badge/Github-purple?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
+  <a href="https://gitlab.com/Amiraliansari?tab=followers">
     <img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Badge"/>
   </a>
 </div>
