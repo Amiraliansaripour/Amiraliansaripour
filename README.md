@@ -45,7 +45,7 @@
 <hr />
 <div align="center">
   <ul>
-    <li style="list-style:none;">🌱 I’m currently learning <strong>Next.js</strong></li>
+    <li style="list-style:none;">🌱 I’m currently learning <strong>Node.js</strong></li>
     <li style="list-style:none;">📫 How to reach me <a href="mailto:amiraliansaripor1383@gmail.com">amiraliansaripor1383@gmail.com</a></li>
   </ul>
 </div>
