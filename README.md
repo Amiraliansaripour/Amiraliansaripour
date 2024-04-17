@@ -4,11 +4,6 @@
 </div>
 <h4 align="center">A motivated front end developer from Iran</h4>
 <hr />
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 <div id="badges"  align="center">
 <!--   <a href="https://instagram.com/amiraliansaripor">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
