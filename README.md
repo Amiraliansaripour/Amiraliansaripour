@@ -8,7 +8,7 @@
 <!--   <a href="https://instagram.com/amiraliansaripor">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a> -->
-  <a href="https://telegram.me/amiraliansarpor">
+  <a href="https://telegram.me/amiraliansarpour">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
    <a href="https://github.com/Amiraliansaripour?tab=followers">
@@ -41,7 +41,6 @@
 <hr />
 <div align="center">
   <ul>
-    <li style="list-style:none;">🌱 I’m currently learning <strong>Node.js</strong></li>
     <li style="list-style:none;">📫 How to reach me <a href="mailto:amiraliansaripor1383@gmail.com">amiraliansaripor1383@gmail.com</a></li>
   </ul>
 </div>
